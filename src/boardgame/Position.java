@@ -1,3 +1,5 @@
+/*@Author Rodrigo Bosio
+ *@since July-2019*/
 package boardgame;
 
 public class Position {
