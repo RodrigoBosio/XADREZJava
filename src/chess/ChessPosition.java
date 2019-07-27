@@ -1,3 +1,5 @@
+/*@Author Rodrigo Bosio
+ *@since July-2019*/
 package chess;
 
 import boardgame.Position;
@@ -35,6 +37,5 @@ public class ChessPosition {
 	public String toString() {
 		return "" + column + row;
 	}
-	
 	
 }
